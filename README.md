@@ -37,4 +37,12 @@ The following will limit noise caused by variables with minimal variation:
   - Data is taking into account the category of both origin and destination of migration
   - Data could potentially take into account how long residency occurs for migrants in order to differentiate between categories of migration (e.g. urban to rural)
 
+### Highlighted Visualizations
+![Lit Rate by Age](https://raw.githubusercontent.com/ashleyhitchings/oeconomica-development-analytics/main/Key%20Figures/litrate_byage.png) 
+![Lit Rate by State](https://raw.githubusercontent.com/ashleyhitchings/oeconomica-development-analytics/main/Key%20Figures/litrate_bystate.png) 
+![Lit Rate by Percent Migrants](https://raw.githubusercontent.com/ashleyhitchings/oeconomica-development-analytics/main/Key%20Figures/litrate_permig.png) 
+![Lit Rate by Gender](https://raw.githubusercontent.com/ashleyhitchings/oeconomica-development-analytics/main/Key%20Figures/litrate_gender_byage.png) 
+![Lit Mig Changes](https://raw.githubusercontent.com/ashleyhitchings/oeconomica-development-analytics/main/Key%20Figures/delta_lit_mig_comparative.png) 
+![Mig Lit Mig Changes](https://raw.githubusercontent.com/ashleyhitchings/oeconomica-development-analytics/main/Key%20Figures/delta_miglit_mig_comparative.png) 
+
 
